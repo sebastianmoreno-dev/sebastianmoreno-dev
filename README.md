@@ -8,7 +8,7 @@
 
 ### Sobre mí
 
-Estudiante de **Ingeniería en Sistemas Computacionales** en ESCOM, IPN. Me enfoco en desarrollo backend y análisis de datos, con experiencia práctica en proyectos académicos y personales usando Python, SQL y desarrollo web.
+Estudiante de **Ingeniería en Sistemas Computacionales** en ESCOM, IPN. Me enfoco en desarrollo Frontend y análisis de datos, con experiencia práctica en proyectos académicos y personales usando Python, SQL y desarrollo web.
 
 Actualmente:
 - 🎓 Cursando ISC en ESCOM, IPN
