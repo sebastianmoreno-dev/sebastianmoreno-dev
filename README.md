@@ -37,8 +37,9 @@ Actualmente:
 ### Estadísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebastianmoreno-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmoreno-dev&layout=compact&theme=dracula&langs_count=6&cache_seconds=86400&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebastianmoreno-dev&show_icons=true&theme=dracula" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmoreno-dev&layout=compact&theme=dracula" />
 </p>
 
 ---
